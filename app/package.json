@@ -1,0 +1,13 @@
+{
+  "name": "opsmate",
+  "version": "1.0.0",
+  "description": "OpsMate Docker learning application",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0",
+    "mysql2": "^3.14.0"
+  }
+}
